@@ -32,7 +32,7 @@ fill a book and click at submit.
 shows 4 books similar to the filled book which may the user will like.
 ![Screenshot (440)](https://user-images.githubusercontent.com/96423397/173178993-9a4eac6c-1ea5-4354-9294-4ebe9fc8ebdb.png)
 
-**Technologies used** HTML,CSS,JAVASCRIPT,PYTHON,FLASK,JUPYTER NOTEBOOK
+**Technologies used** HTML,CSS,JAVASCRIPT,PYTHON,FLASK,JUPYTER NOTEBOOK, BOOTSTRAP 
 
 **Resources/References**
 
